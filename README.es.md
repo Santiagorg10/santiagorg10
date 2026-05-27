@@ -19,7 +19,11 @@
 <br/>
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+=======
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+>>>>>>> a5ad3b01655b7c333ff1f157a3c3348211f6c93a
 </div>
 
 ---
@@ -35,7 +39,11 @@ class SantiagoR:
     rol         = "Único Ingeniero · Arquitecto de Sistemas"
     actual      = "Plataforma VIA — ERP de producción, construido solo desde cero"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+<<<<<<< HEAD
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
+=======
+    hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
+>>>>>>> a5ad3b01655b7c333ff1f157a3c3348211f6c93a
     
     def hola(self):
         print("Construyo sistemas reales bajo restricciones regulatorias reales.")
@@ -72,9 +80,12 @@ class SantiagoR:
 
 **Dominios:** Capital Humano · Flota & Mantenimiento · Operaciones · SST/LMS · Cumplimiento Documental · AP/Liquidaciones · Contabilidad · Alertas
 
-**Integraciones:** `SIIGO Nube API` · `Facturas DIAN` · `ONLYOFFICE` · `PBX Grandstream UCM6300A` · `Cloudflare Zero Trust` · `Módem GSM Huawei E3131`
+**Integraciones:** `SIIGO Nube API` · `Facturas DIAN` · `ONLYOFFICE` · `PBX Grandstream UCM6300A` · `Cloudflare Zero Trust` ·
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a5ad3b01655b7c333ff1f157a3c3348211f6c93a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -178,7 +189,11 @@ class SantiagoR:
 |:---:|:---:|:---:|
 | Builds freestyle y largo alcance | OPNsense · malla Tailscale | Usuario avanzado de Claude Code |
 | Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado |
+<<<<<<< HEAD
 | Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
+=======
+| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
+>>>>>>> a5ad3b01655b7c333ff1f157a3c3348211f6c93a
 
 </div>
 
