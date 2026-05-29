@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:292e42,70:3b4261,100:1a1b27&height=230&section=header&text=Santiago%20R.&fontSize=72&fontColor=7aa2f7&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20Full-Stack%20%E2%80%A2%20Arquitecto%20de%20Sistemas%20%E2%80%A2%20Piloto%20FPV&descSize=16&descAlignY=56&descColor=565f89" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:292e42,70:3b4261,100:1a1b27&height=230&section=header&text=Santiago%20Ramirez.&fontSize=72&fontColor=7aa2f7&animation=fadeIn&fontAlignY=36&desc=Ingeniero%20Full-Stack%20%E2%80%A2%20Arquitecto%20de%20Sistemas%20%E2%80%A2%20Piloto%20FPV&descSize=16&descAlignY=56&descColor=565f89" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
-=======
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 
 </div>
@@ -39,11 +39,11 @@ class SantiagoR:
     rol         = "Único Ingeniero · Arquitecto de Sistemas"
     actual      = "Plataforma VIA — ERP de producción, construido solo desde cero"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-<<<<<<< HEAD
+
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
-=======
+
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
->>>>>>> a5ad3b01655b7c333ff1f157a3c3348211f6c93a
+
     
     def hola(self):
         print("Construyo sistemas reales bajo restricciones regulatorias reales.")
@@ -84,7 +84,6 @@ class SantiagoR:
 
 
 
-=======
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -191,7 +190,7 @@ class SantiagoR:
 | Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado |
 
 | Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
-=======
+
 | Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
 
 
