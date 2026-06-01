@@ -191,8 +191,6 @@ class SantiagoR:
 
 | Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
 
-| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
-
 
 </div>
 
