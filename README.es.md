@@ -37,7 +37,6 @@ class SantiagoR:
     rol         = "Único Ingeniero · Arquitecto de Sistemas"
     actual      = "Plataforma VIA — ERP de producción, construido solo desde cero"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
 
     
