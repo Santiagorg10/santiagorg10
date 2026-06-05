@@ -212,16 +212,6 @@ class SantiagoR:
 
 </div>
 
-## 🗂️ &nbsp;Proyectos
-
-<div align="center">
-
-[![Plataforma VIA](https://santiagorg10-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=plataforma-via&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27&locale=es)](https://github.com/santiagorg10/plataforma-via)
-&nbsp;
-[![CAPTCHA Solver](https://santiagorg10-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=captcha-solver&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27&locale=es)](https://github.com/santiagorg10/captcha-solver)
-
-</div>
-
 ---
 
 <div align="center">
