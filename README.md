@@ -82,7 +82,7 @@ class SantiagoR:
 
 > My pet product design venture (Medellín 🇨🇴). I design physical products in **Autodesk Fusion 360**, driving the CAD through a **two-agent AI workflow** I built: an **Architect** (a Claude Code planning session that writes the Work Orders) and an **Executor** (Claude Code modeling live in Fusion 360 through the **Fusion MCP** bridge) — with me in the middle, bridging both and making the design calls.
 
-**First product:** `ZeeBowl` — a collapsible telescoping travel bowl: 3 rigid PP rings, a 3-start helical cam-ramp, and a removable stainless-steel insert. Fully parametric, designed for 3D-print prototyping first and injection molding later.
+**What I'm building:** a line of **customizable products for pet owners** — pieces designed around each pet, fully parametric so every design adapts to any size or breed. Prototyped in 3D print first, injection molded for production.
 
 <div align="center">
 
@@ -218,7 +218,7 @@ class SantiagoR:
 |:---:|:---:|:---:|:---:|
 | Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
 | Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama + RAG planned | Fusion 360 parametric CAD |
-| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion MCP — AI drives my CAD | ZeeBowl: collapsible travel bowl |
+| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion MCP — AI drives my CAD | Custom designs, fit to each pet |
 
 </div>
 

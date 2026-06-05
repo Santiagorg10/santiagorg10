@@ -84,7 +84,7 @@ class SantiagoR:
 
 > Mi emprendimiento de diseño de productos para mascotas (Medellín 🇨🇴). Diseño productos físicos en **Autodesk Fusion 360**, manejando el CAD con un **flujo de dos agentes de IA** que construí: un **Arquitecto** (sesión de planeación en Claude Code que escribe las Órdenes de Trabajo) y un **Ejecutor** (Claude Code modelando en vivo en Fusion 360 a través del puente **Fusion MCP**) — conmigo en el medio, conectando ambos y tomando las decisiones de diseño.
 
-**Primer producto:** `ZeeBowl` — un tazón de viaje colapsable telescópico: 3 anillos rígidos de PP, una rampa de leva helicoidal de 3 entradas y un inserto removible de acero inoxidable. Totalmente paramétrico, diseñado primero para prototipado en impresión 3D y luego para moldeo por inyección.
+**Qué estoy construyendo:** una línea de **productos personalizables para dueños de mascotas** — piezas diseñadas alrededor de cada mascota, totalmente paramétricas para que cada diseño se adapte a cualquier tamaño o raza. Prototipado primero en impresión 3D y luego moldeo por inyección para producción.
 
 <div align="center">
 
@@ -207,7 +207,7 @@ class SantiagoR:
 |:---:|:---:|:---:|:---:|
 | Builds freestyle y largo alcance | OPNsense · malla Tailscale | Usuario avanzado de Claude Code | Lucio & Co — productos para mascotas |
 | Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado | CAD paramétrico en Fusion 360 |
-| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 | Fusion MCP — la IA maneja mi CAD | ZeeBowl: tazón de viaje colapsable |
+| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 | Fusion MCP — la IA maneja mi CAD | Diseños a la medida de cada mascota |
 
 
 </div>
