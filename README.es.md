@@ -158,14 +158,6 @@ class SantiagoR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 &nbsp;Trophies de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=santiagorg10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
