@@ -180,8 +180,8 @@ class SantiagoR:
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santiagorg10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b27" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santiagorg10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b27" />
+  <img height="180em" src="https://santiagorg10-readme-stats.vercel.app/api?username=santiagorg10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b27" />
+  <img height="180em" src="https://santiagorg10-readme-stats.vercel.app/api/top-langs/?username=santiagorg10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b27" />
 </div>
 
 <div align="center">
@@ -226,9 +226,9 @@ class SantiagoR:
 
 <div align="center">
 
-[![Plataforma VIA](https://github-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=plataforma-via&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27)](https://github.com/santiagorg10/plataforma-via)
+[![Plataforma VIA](https://santiagorg10-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=plataforma-via&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27)](https://github.com/santiagorg10/plataforma-via)
 &nbsp;
-[![CAPTCHA Solver](https://github-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=captcha-solver&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27)](https://github.com/santiagorg10/captcha-solver)
+[![CAPTCHA Solver](https://santiagorg10-readme-stats.vercel.app/api/pin/?username=santiagorg10&repo=captcha-solver&theme=tokyonight&hide_border=true&title_color=7aa2f7&bg_color=1a1b27)](https://github.com/santiagorg10/captcha-solver)
 
 </div>
 
