@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Designing+pet+products+in+Fusion+360+%F0%9F%90%BE+%C2%B7+AI-driven+CAD;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </div>
 
 ---
@@ -35,6 +35,7 @@ class SantiagoR:
     role        = "Sole Engineer · Systems Architect"
     current     = "Plataforma VIA — production ERP, built solo from scratch"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+    side_quest  = "Lucio & Co — pet products in Fusion 360, AI-driven CAD 🐾"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
     
     def say_hi(self):
@@ -74,6 +75,23 @@ class SantiagoR:
 
 **Integrations:** `SIIGO Nube API` · `DIAN e-invoices` · `ONLYOFFICE` · `Grandstream UCM6300A PBX` · `Cloudflare Zero Trust` · `Huawei E3131 GSM OTP`
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🐾 &nbsp;Lucio & Co — AI-Driven Product Design
+
+> My pet product design venture (Medellín 🇨🇴). I design physical products in **Autodesk Fusion 360**, driving the CAD through a **two-agent AI workflow** I built: an **Architect** (a Claude Code planning session that writes the Work Orders) and an **Executor** (Claude Code modeling live in Fusion 360 through the **Fusion MCP** bridge) — with me in the middle, bridging both and making the design calls.
+
+**First product:** `ZeeBowl` — a collapsible telescoping travel bowl: 3 rigid PP rings, a 3-start helical cam-ramp, and a removable stainless-steel insert. Fully parametric, designed for 3D-print prototyping first and injection molding later.
+
+<div align="center">
+
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
+![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
+![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
+![Parametric](https://img.shields.io/badge/100%25%20Parametric-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -130,6 +148,15 @@ class SantiagoR:
 
 <br/>
 
+**📐 CAD & Product Design**
+
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
+![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
+![Parametric Modeling](https://img.shields.io/badge/Parametric%20Modeling-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
+![3D Printing](https://img.shields.io/badge/3D%20Print%20Prototyping-1a1b27?style=flat-square&logoColor=bb9af7)
+
+<br/>
+
 **🔧 Tools & Environment**
 
 <img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />
@@ -171,13 +198,13 @@ class SantiagoR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Contribution Snake
+## 👾 &nbsp;Pac-Man Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -187,11 +214,11 @@ class SantiagoR:
 
 <div align="center">
 
-| 🚁 FPV Drones | 🖥️ Self-Hosted Infra | 🤖 AI Exploration |
-|:---:|:---:|:---:|
-| Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user |
-| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama + RAG planned |
-| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS |
+| 🚁 FPV Drones | 🖥️ Self-Hosted Infra | 🤖 AI Exploration | 🐾 Product Design |
+|:---:|:---:|:---:|:---:|
+| Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
+| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama + RAG planned | Fusion 360 parametric CAD |
+| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion MCP — AI drives my CAD | ZeeBowl: collapsible travel bowl |
 
 </div>
 

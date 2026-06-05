@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Dise%C3%B1ando+productos+para+mascotas+en+Fusion+360+%F0%9F%90%BE;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 
 </div>
 
@@ -37,6 +37,7 @@ class SantiagoR:
     rol         = "Único Ingeniero · Arquitecto de Sistemas"
     actual      = "Plataforma VIA — ERP de producción, construido solo desde cero"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+    side_quest  = "Lucio & Co — productos para mascotas en Fusion 360, CAD con IA 🐾"
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
 
     
@@ -75,10 +76,24 @@ class SantiagoR:
 
 **Dominios:** Capital Humano · Flota & Mantenimiento · Operaciones · SST/LMS · Cumplimiento Documental · AP/Liquidaciones · Contabilidad · Alertas
 
-**Integraciones:** `SIIGO Nube API` · `Facturas DIAN` · `ONLYOFFICE` · `PBX Grandstream UCM6300A` · `Cloudflare Zero Trust` ·
+**Integraciones:** `SIIGO Nube API` · `Facturas DIAN` · `ONLYOFFICE` · `PBX Grandstream UCM6300A` · `Cloudflare Zero Trust`
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🐾 &nbsp;Lucio & Co — Diseño de Producto con IA
 
+> Mi emprendimiento de diseño de productos para mascotas (Medellín 🇨🇴). Diseño productos físicos en **Autodesk Fusion 360**, manejando el CAD con un **flujo de dos agentes de IA** que construí: un **Arquitecto** (sesión de planeación en Claude Code que escribe las Órdenes de Trabajo) y un **Ejecutor** (Claude Code modelando en vivo en Fusion 360 a través del puente **Fusion MCP**) — conmigo en el medio, conectando ambos y tomando las decisiones de diseño.
+
+**Primer producto:** `ZeeBowl` — un tazón de viaje colapsable telescópico: 3 anillos rígidos de PP, una rampa de leva helicoidal de 3 entradas y un inserto removible de acero inoxidable. Totalmente paramétrico, diseñado primero para prototipado en impresión 3D y luego para moldeo por inyección.
+
+<div align="center">
+
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
+![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
+![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
+![Paramétrico](https://img.shields.io/badge/100%25%20Param%C3%A9trico-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -130,6 +145,15 @@ class SantiagoR:
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1b27?style=flat-square&logo=githubactions&logoColor=7dcfff)
 ![Tailscale](https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=bb9af7)
 
+<br/>
+
+**📐 CAD & Diseño de Producto**
+
+![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
+![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
+![Modelado Paramétrico](https://img.shields.io/badge/Modelado%20Param%C3%A9trico-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
+![Impresión 3D](https://img.shields.io/badge/Prototipado%20Impresi%C3%B3n%203D-1a1b27?style=flat-square&logoColor=bb9af7)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -163,13 +187,13 @@ class SantiagoR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Serpiente de Contribuciones
+## 👾 &nbsp;Pac-Man en mis Contribuciones
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/santiagorg10/santiagorg10/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -179,12 +203,11 @@ class SantiagoR:
 
 <div align="center">
 
-| 🚁 Drones FPV | 🖥️ Infra Self-Hosted | 🤖 IA & Exploración |
-|:---:|:---:|:---:|
-| Builds freestyle y largo alcance | OPNsense · malla Tailscale | Usuario avanzado de Claude Code |
-| Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado |
-
-| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 |
+| 🚁 Drones FPV | 🖥️ Infra Self-Hosted | 🤖 IA & Exploración | 🐾 Diseño de Producto |
+|:---:|:---:|:---:|:---:|
+| Builds freestyle y largo alcance | OPNsense · malla Tailscale | Usuario avanzado de Claude Code | Lucio & Co — productos para mascotas |
+| Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado | CAD paramétrico en Fusion 360 |
+| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 | Fusion MCP — la IA maneja mi CAD | ZeeBowl: tazón de viaje colapsable |
 
 
 </div>
