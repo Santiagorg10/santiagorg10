@@ -37,7 +37,7 @@ class SantiagoR:
     rol         = "Único Ingeniero · Arquitecto de Sistemas"
     actual      = "Plataforma VIA — ERP de producción, construido solo desde cero"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-    side_quest  = "Lucio & Co — productos para mascotas en Fusion 360, CAD con IA 🐾"
+    side_quest  = "Lucio & Co — productos para mascotas en Fusion 360, CAD  🐾"
     hobbies     = ["Drones FPV 🚁", "Tuning PID Betaflight", "Self-hosted todo"]
 
     
@@ -84,7 +84,6 @@ class SantiagoR:
 <div align="center">
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
-![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
 ![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
 ![Paramétrico](https://img.shields.io/badge/100%25%20Param%C3%A9trico-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 
@@ -145,7 +144,6 @@ class SantiagoR:
 **📐 CAD & Diseño de Producto**
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
-![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
 ![Modelado Paramétrico](https://img.shields.io/badge/Modelado%20Param%C3%A9trico-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 ![Impresión 3D](https://img.shields.io/badge/Prototipado%20Impresi%C3%B3n%203D-1a1b27?style=flat-square&logoColor=bb9af7)
 
@@ -192,7 +190,7 @@ class SantiagoR:
 |:---:|:---:|:---:|:---:|
 | Builds freestyle y largo alcance | OPNsense · malla Tailscale | Usuario avanzado de Claude Code | Lucio & Co — productos para mascotas |
 | Tuning de PIDs en Betaflight | NAS Asustor · PBX Grandstream | Ollama + RAG on-prem planeado | CAD paramétrico en Fusion 360 |
-| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 | Fusion MCP — la IA maneja mi CAD | Diseños a la medida de cada mascota |
+| Soldadura de stacks FPV | pg_dump nocturno · RAID 5 | Fusion | Diseños a la medida de cada mascota |
 
 
 </div>

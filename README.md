@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Designing+pet+products+in+Fusion+360+%F0%9F%90%BE+%C2%B7+AI-driven+CAD;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Designing+pet+products+in+Fusion+360+%F0%9F%90%BE+%C2%B7+CAD;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </div>
 
 ---
@@ -35,7 +35,7 @@ class SantiagoR:
     role        = "Sole Engineer · Systems Architect"
     current     = "Plataforma VIA — production ERP, built solo from scratch"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-    side_quest  = "Lucio & Co — pet products in Fusion 360, AI-driven CAD 🐾"
+    side_quest  = "Lucio & Co — pet products in Fusion 360,🐾"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
     
     def say_hi(self):
@@ -82,7 +82,6 @@ class SantiagoR:
 <div align="center">
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
-![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
 ![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
 ![Parametric](https://img.shields.io/badge/100%25%20Parametric-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 
@@ -146,7 +145,6 @@ class SantiagoR:
 **📐 CAD & Product Design**
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
-![Fusion MCP](https://img.shields.io/badge/Fusion%20MCP-1a1b27?style=flat-square&logo=anthropic&logoColor=7aa2f7)
 ![Parametric Modeling](https://img.shields.io/badge/Parametric%20Modeling-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 ![3D Printing](https://img.shields.io/badge/3D%20Print%20Prototyping-1a1b27?style=flat-square&logoColor=bb9af7)
 
@@ -200,7 +198,7 @@ class SantiagoR:
 |:---:|:---:|:---:|:---:|
 | Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
 | Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama + RAG planned | Fusion 360 parametric CAD |
-| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion MCP — AI drives my CAD | Custom designs, fit to each pet |
+| FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion - CAD | Custom designs, fit to each pet |
 
 </div>
 
