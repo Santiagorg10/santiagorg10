@@ -171,10 +171,6 @@ class SantiagoR:
   <img height="180em" src="https://santiagorg10-readme-stats.vercel.app/api/top-langs/?username=santiagorg10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b27" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=santiagorg10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=bb9af7&dates=565f89&background=1a1b27&stroke=292e42" />
-</div>
-
 
 ## 📈 &nbsp;Contribution Activity
 
