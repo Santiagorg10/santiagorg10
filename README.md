@@ -78,11 +78,6 @@ class SantiagoR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐾 &nbsp;Lucio & Co — AI-Driven Product Design
-
-> My pet product design venture (Medellín 🇨🇴). I design physical products in **Autodesk Fusion 360**, driving the CAD through a **two-agent AI workflow** I built: an **Architect** (a Claude Code planning session that writes the Work Orders) and an **Executor** (Claude Code modeling live in Fusion 360 through the **Fusion MCP** bridge) — with me in the middle, bridging both and making the design calls.
-
-**What I'm building:** a line of **customizable products for pet owners** — pieces designed around each pet, fully parametric so every design adapts to any size or breed. Prototyped in 3D print first, injection molded for production.
 
 <div align="center">
 

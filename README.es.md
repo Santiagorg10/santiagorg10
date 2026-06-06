@@ -80,11 +80,6 @@ class SantiagoR:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐾 &nbsp;Lucio & Co — Diseño de Producto con IA
-
-> Mi emprendimiento de diseño de productos para mascotas (Medellín 🇨🇴). Diseño productos físicos en **Autodesk Fusion 360**, manejando el CAD con un **flujo de dos agentes de IA** que construí: un **Arquitecto** (sesión de planeación en Claude Code que escribe las Órdenes de Trabajo) y un **Ejecutor** (Claude Code modelando en vivo en Fusion 360 a través del puente **Fusion MCP**) — conmigo en el medio, conectando ambos y tomando las decisiones de diseño.
-
-**Qué estoy construyendo:** una línea de **productos personalizables para dueños de mascotas** — piezas diseñadas alrededor de cada mascota, totalmente paramétricas para que cada diseño se adapte a cualquier tamaño o raza. Prototipado primero en impresión 3D y luego moldeo por inyección para producción.
 
 <div align="center">
 
