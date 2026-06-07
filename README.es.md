@@ -143,9 +143,21 @@ class SantiagoR:
 
 **📐 CAD & Diseño de Producto**
 
+<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/fusion360.svg" height="48" alt="Autodesk Fusion 360" />
+
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
 ![Modelado Paramétrico](https://img.shields.io/badge/Modelado%20Param%C3%A9trico-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 ![Impresión 3D](https://img.shields.io/badge/Prototipado%20Impresi%C3%B3n%203D-1a1b27?style=flat-square&logoColor=bb9af7)
+
+<br/>
+
+**🔧 Herramientas & Entorno**
+
+<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
+
+![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=anthropic&logoColor=ff9e64)
+![Betaflight](https://img.shields.io/badge/Betaflight-1a1b27?style=flat-square&logo=drone&logoColor=f7768e)
 
 </div>
 
@@ -156,10 +168,6 @@ class SantiagoR:
 <div align="center">
   <img height="180em" src="https://santiagorg10-readme-stats.vercel.app/api?username=santiagorg10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6&bg_color=1a1b27&locale=es" />
   <img height="180em" src="https://santiagorg10-readme-stats.vercel.app/api/top-langs/?username=santiagorg10&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b27&locale=es" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=santiagorg10&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=bb9af7&dates=565f89&background=1a1b27&stroke=292e42&locale=es" />
 </div>
 
 ## 📈 &nbsp;Actividad de Contribuciones

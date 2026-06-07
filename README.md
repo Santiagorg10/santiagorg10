@@ -144,6 +144,8 @@ class SantiagoR:
 
 **📐 CAD & Product Design**
 
+<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/fusion360.svg" height="48" alt="Autodesk Fusion 360" />
+
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
 ![Parametric Modeling](https://img.shields.io/badge/Parametric%20Modeling-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 ![3D Printing](https://img.shields.io/badge/3D%20Print%20Prototyping-1a1b27?style=flat-square&logoColor=bb9af7)
@@ -152,7 +154,7 @@ class SantiagoR:
 
 **🔧 Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=anthropic&logoColor=ff9e64)
