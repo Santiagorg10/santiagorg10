@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Designing+pet+products+in+Fusion+360+%F0%9F%90%BE+%C2%B7+CAD;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;78%2B+tables+%C2%B7+247+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Designing+pet+products+in+Fusion+360+%F0%9F%90%BE+%C2%B7+CAD;Self-hosted+LLMs+%C2%B7+local+RAG+%C2%B7+always+learning;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </div>
 
 ---
@@ -34,7 +34,7 @@ class SantiagoR:
     company     = "VIA TERRESTRE S.A. — Envigado, Antioquia"
     role        = "Sole Engineer · Systems Architect"
     current     = "Plataforma VIA — production ERP, built solo from scratch"
-    infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+    infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare", "2× RTX 5090"]
     side_quest  = "Lucio & Co — pet products in Fusion 360,🐾"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
     
@@ -86,6 +86,30 @@ class SantiagoR:
 ![Parametric](https://img.shields.io/badge/100%25%20Parametric-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧠 &nbsp;AI-Stack — On-Premise AI
+
+> The AI tier of Plataforma VIA, and the project I'm learning the most from right now. I run local inference on **dual RTX 5090s** — from kernel-module driver fixes for Blackwell, through the Docker GPU runtime, to a Graph-RAG pipeline over the company's regulated docs vault. This data can't leave the building, so instead of cloud APIs I'm building the on-prem alternative — and documenting every step like infrastructure, not experiments.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2%C3%97-RTX%205090-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/qwen3%3A32b-70%20tok%2Fs-9ece6a?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%25-GPU%20Inference-bb9af7?style=for-the-badge&labelColor=1a1b27" /></td>
+  </tr>
+</table>
+
+</div>
+
+**Stack:** `Ollama` · `qwen3:32b` · `bge-m3 embeddings` · `LightRAG` · `GraphRAG` · `RAG-Anything (multimodal)` · `Docker GPU runtime`
+
+**Status:** inference is up and benchmarked; now wiring the RAG pilot into the platform's AI copilot endpoints — and re-learning half of it every week, because this field doesn't sit still.
+
+> 🤝 If you're working on something similar — local LLMs, RAG over messy real-world documents, GPU homelabs — I'd genuinely love to compare notes. Reach out.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -152,6 +176,16 @@ class SantiagoR:
 
 <br/>
 
+**🧠 AI & LLM Ops**
+
+![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=ffffff)
+![NVIDIA](https://img.shields.io/badge/CUDA%20%C2%B7%20RTX%205090%20%C3%972-1a1b27?style=flat-square&logo=nvidia&logoColor=9ece6a)
+![LightRAG](https://img.shields.io/badge/LightRAG-1a1b27?style=flat-square&logoColor=7aa2f7)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-1a1b27?style=flat-square&logoColor=bb9af7)
+![bge-m3](https://img.shields.io/badge/bge--m3%20embeddings-1a1b27?style=flat-square&logoColor=7dcfff)
+
+<br/>
+
 **🔧 Tools & Environment**
 
 <img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
@@ -199,7 +233,7 @@ class SantiagoR:
 | 🚁 FPV Drones | 🖥️ Self-Hosted Infra | 🤖 AI Exploration | 🐾 Product Design |
 |:---:|:---:|:---:|:---:|
 | Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
-| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama + RAG planned | Fusion 360 parametric CAD |
+| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama · LightRAG · GraphRAG | Fusion 360 parametric CAD |
 | FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion - CAD | Custom designs, fit to each pet |
 
 </div>
