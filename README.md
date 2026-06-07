@@ -36,6 +36,7 @@ class SantiagoR:
     current     = "Plataforma VIA — production ERP, built solo from scratch"
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare", "2× RTX 5090"]
     side_quest  = "Lucio & Co — pet products in Fusion 360,🐾"
+    workflow    = "Architect ↔ Executor — two Claude Code agents, I make the calls"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
     
     def say_hi(self):
@@ -80,6 +81,8 @@ class SantiagoR:
 
 
 <div align="center">
+
+**🐾 Side quest — Lucio & Co** · customizable pet products, designed around each pet — two Claude Code agents drive Fusion 360 through MCP, and I make the design calls.
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
 ![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
@@ -178,6 +181,8 @@ class SantiagoR:
 
 **🧠 AI & LLM Ops**
 
+<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/ollama.svg" height="48" alt="Ollama" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/nvidia.svg" height="48" alt="NVIDIA" />
+
 ![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=ffffff)
 ![NVIDIA](https://img.shields.io/badge/CUDA%20%C2%B7%20RTX%205090%20%C3%972-1a1b27?style=flat-square&logo=nvidia&logoColor=9ece6a)
 ![LightRAG](https://img.shields.io/badge/LightRAG-1a1b27?style=flat-square&logoColor=7aa2f7)
@@ -235,6 +240,14 @@ class SantiagoR:
 | Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
 | Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama · LightRAG · GraphRAG | Fusion 360 parametric CAD |
 | FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion - CAD | Custom designs, fit to each pet |
+
+</div>
+
+## 📫 &nbsp;Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/santiagorg10%40gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=7aa2f7)](mailto:santiagorg10@gmail.com)
 
 </div>
 
