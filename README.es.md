@@ -20,7 +20,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;78%2B+tablas+%C2%B7+247+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Dise%C3%B1ando+productos+para+mascotas+en+Fusion+360+%F0%9F%90%BE;LLMs+self-hosted+%C2%B7+RAG+local+%C2%B7+siempre+aprendiendo;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=650&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;251+tablas+%C2%B7+1%2C146+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Dise%C3%B1ando+productos+para+mascotas+en+Fusion+360+%F0%9F%90%BE;LLMs+self-hosted+%C2%B7+RAG+local+%C2%B7+siempre+aprendiendo;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 
 </div>
 
@@ -57,17 +57,17 @@ class SantiagoR:
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/78%2B-Tablas%20PostgreSQL-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/247-Endpoints%20REST-bb9af7?style=for-the-badge&labelColor=1a1b27" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/20-Routers%20FastAPI-9ece6a?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/251-Tablas%20PostgreSQL-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/1%2C146-Endpoints%20REST-bb9af7?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/56-Routers%20FastAPI-9ece6a?style=for-the-badge&labelColor=1a1b27" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/32-P%C3%A1ginas%20React-ff9e64?style=for-the-badge&labelColor=1a1b27" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/21K%2B-LOC%20Python-7dcfff?style=for-the-badge&labelColor=1a1b27" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/65%2B-Hooks%20Auto--Reparaci%C3%B3n-f7768e?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/233-M%C3%B3dulos%20React%20%2B%20TS-ff9e64?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/77K%2B-LOC%20Python-7dcfff?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/332-Hooks%20Auto--Reparaci%C3%B3n-f7768e?style=for-the-badge&labelColor=1a1b27" /></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/18-Scopes%20RBAC-e0af68?style=for-the-badge&labelColor=1a1b27" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/36-Scopes%20RBAC-e0af68?style=for-the-badge&labelColor=1a1b27" /></td>
     <td align="center"><img src="https://img.shields.io/badge/5-Contenedores%20Docker-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Cero-Migraciones%20Alembic-9ece6a?style=for-the-badge&labelColor=1a1b27" /></td>
   </tr>
@@ -75,7 +75,7 @@ class SantiagoR:
 
 </div>
 
-**Dominios:** Capital Humano · Flota & Mantenimiento · Operaciones · SST/LMS · Cumplimiento Documental · AP/Liquidaciones · Contabilidad · Alertas
+**Dominios:** Capital Humano · Flota & Mantenimiento · Operaciones · SG-SST (Res. 0312) · Medio Ambiente / ISO 14001 · Cumplimiento / SAGRILAFT · Documental · Finanzas & Contabilidad · LMS · CRM · Alertas
 
 **Integraciones:** `SIIGO Nube API` · `Facturas DIAN` · `ONLYOFFICE` · `PBX Grandstream UCM6300A` · `Cloudflare Zero Trust`
 
@@ -137,11 +137,11 @@ class SantiagoR:
 
 **🖥️ Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,vite&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=react,ts,vite&theme=dark" height="48" />
 
 ![React](https://img.shields.io/badge/React%2019-1a1b27?style=flat-square&logo=react&logoColor=7aa2f7)
 ![Vite](https://img.shields.io/badge/Vite%207-1a1b27?style=flat-square&logo=vite&logoColor=bb9af7)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=e0af68)
+![TypeScript](https://img.shields.io/badge/TypeScript%20Strict-1a1b27?style=flat-square&logo=typescript&logoColor=7aa2f7)
 
 <br/>
 
