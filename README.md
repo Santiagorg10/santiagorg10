@@ -82,7 +82,7 @@ class SantiagoR:
 
 <div align="center">
 
-**🐾 Side quest — Lucio & Co** · customizable pet products, designed around each pet — two Claude Code agents drive Fusion 360 through MCP, and I make the design calls.
+**🐾 Side quest — Lucio & Co** · customizable pet products, designed around each pet Fusion 360.
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
 ![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
@@ -238,7 +238,7 @@ class SantiagoR:
 | 🚁 FPV Drones | 🖥️ Self-Hosted Infra | 🤖 AI Exploration | 🐾 Product Design |
 |:---:|:---:|:---:|:---:|
 | Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
-| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama · LightRAG · GraphRAG | Fusion 360 parametric CAD |
+| Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama · LightRAG · GraphRAG | Fusion 360 |
 | FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion - CAD | Custom designs, fit to each pet |
 
 </div>
