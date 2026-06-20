@@ -84,7 +84,7 @@ class SantiagoR:
 
 <div align="center">
 
-**🐾 Side quest — Lucio & Co** · productos personalizables para mascotas, diseñados alrededor de cada mascota — dos agentes de Claude Code manejan Fusion 360 vía MCP, y yo tomo las decisiones de diseño.
+**🐾 Side quest — Lucio & Co** · productos personalizables para mascotas, diseñados alrededor de cada mascota —Fusion 360
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
 ![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
