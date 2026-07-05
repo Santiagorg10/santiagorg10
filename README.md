@@ -34,9 +34,8 @@ class SantiagoR:
     company     = "VIA TERRESTRE S.A. — Envigado, Antioquia"
     role        = "Sole Engineer · Systems Architect"
     current     = "Plataforma VIA — production ERP, built solo from scratch"
-    infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare", "2× RTX 5090"]
+    infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare",]
     side_quest  = "Lucio & Co — pet products in Fusion 360,🐾"
-    workflow    = "Architect ↔ Executor — two Claude Code agents, I make the calls"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
     
     def say_hi(self):
@@ -100,7 +99,6 @@ class SantiagoR:
 
 <table>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/2%C3%97-RTX%205090-7aa2f7?style=for-the-badge&labelColor=1a1b27" /></td>
     <td align="center"><img src="https://img.shields.io/badge/qwen3%3A32b-70%20tok%2Fs-9ece6a?style=for-the-badge&labelColor=1a1b27" /></td>
     <td align="center"><img src="https://img.shields.io/badge/100%25-GPU%20Inference-bb9af7?style=for-the-badge&labelColor=1a1b27" /></td>
   </tr>
@@ -184,7 +182,6 @@ class SantiagoR:
 <img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/ollama.svg" height="48" alt="Ollama" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/nvidia.svg" height="48" alt="NVIDIA" />
 
 ![Ollama](https://img.shields.io/badge/Ollama-1a1b27?style=flat-square&logo=ollama&logoColor=ffffff)
-![NVIDIA](https://img.shields.io/badge/CUDA%20%C2%B7%20RTX%205090%20%C3%972-1a1b27?style=flat-square&logo=nvidia&logoColor=9ece6a)
 ![LightRAG](https://img.shields.io/badge/LightRAG-1a1b27?style=flat-square&logoColor=7aa2f7)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-1a1b27?style=flat-square&logoColor=bb9af7)
 ![bge-m3](https://img.shields.io/badge/bge--m3%20embeddings-1a1b27?style=flat-square&logoColor=7dcfff)
