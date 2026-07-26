@@ -84,7 +84,6 @@ class SantiagoR:
 **🐾 Side quest — Lucio & Co** · customizable pet products, designed around each pet Fusion 360.
 
 ![Fusion 360](https://img.shields.io/badge/Autodesk%20Fusion%20360-1a1b27?style=flat-square&logo=autodesk&logoColor=ff9e64)
-![Claude Code x2](https://img.shields.io/badge/Claude%20Code%20%C3%972-1a1b27?style=flat-square&logo=anthropic&logoColor=bb9af7)
 ![Parametric](https://img.shields.io/badge/100%25%20Parametric-1a1b27?style=flat-square&logo=autodesk&logoColor=9ece6a)
 
 </div>
@@ -93,7 +92,7 @@ class SantiagoR:
 
 ## 🧠 &nbsp;AI-Stack — On-Premise AI
 
-> The AI tier of Plataforma VIA, and the project I'm learning the most from right now. I run local inference on **dual RTX 5090s** — from kernel-module driver fixes for Blackwell, through the Docker GPU runtime, to a Graph-RAG pipeline over the company's regulated docs vault. This data can't leave the building, so instead of cloud APIs I'm building the on-prem alternative — and documenting every step like infrastructure, not experiments.
+> The AI tier of Plataforma VIA, and the project I'm learning the most from right now. I run local inference  — from kernel-module driver fixes for Blackwell, through the Docker GPU runtime, to a Graph-RAG pipeline over the company's regulated docs vault. This data can't leave the building, so instead of cloud APIs I'm building the on-prem alternative — and documenting every step like infrastructure, not experiments.
 
 <div align="center">
 
@@ -193,7 +192,6 @@ class SantiagoR:
 <img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=anthropic&logoColor=ff9e64)
 ![Betaflight](https://img.shields.io/badge/Betaflight-1a1b27?style=flat-square&logo=drone&logoColor=f7768e)
 
 </div>
@@ -234,7 +232,7 @@ class SantiagoR:
 
 | 🚁 FPV Drones | 🖥️ Self-Hosted Infra | 🤖 AI Exploration | 🐾 Product Design |
 |:---:|:---:|:---:|:---:|
-| Freestyle & long-range builds | OPNsense · Tailscale mesh | Claude Code power user | Lucio & Co — pet products |
+| Freestyle & long-range builds | OPNsense · Tailscale mesh  | Lucio & Co — pet products |
 | Betaflight PID tuning & flash | Asustor NAS · Grandstream PBX | On-prem Ollama · LightRAG · GraphRAG | Fusion 360 |
 | FPV stack wiring & soldering | Nightly pg_dump · RAID 5 NAS | Fusion - CAD | Custom designs, fit to each pet |
 
