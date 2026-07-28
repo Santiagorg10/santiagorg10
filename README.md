@@ -291,7 +291,7 @@ verified interference-clean in every position, now in field-test prep.
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=santiagorg10&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=565f89" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=santiagorg10&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=565f89&v=2" />
 </div>
 
 <!-- Commit/stars stats card and top-languages card intentionally omitted:
