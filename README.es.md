@@ -290,18 +290,15 @@ pruebas de campo.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=santiagorg10&locale=es&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=565f89&v=2" />
-</div>
-
-<!-- Tarjetas de estadísticas y de lenguajes omitidas a propósito:
-     la instancia autoalojada en santiagorg10-readme-stats.vercel.app ya no existe
-     (DEPLOYMENT_NOT_FOUND) y la pública responde 503 de forma crónica. Además ambas
-     necesitan instancia propia + PAT para respetar count_private — sin eso reportarían
-     casi nada, porque todos los repos importantes aquí son privados.
-     Redesplegar el fork y restaurar las dos etiquetas <img>. -->
+<!-- Las tres tarjetas de terceros (commits/estrellas, lenguajes, racha) se omiten
+     a propósito — no sobreviven al proxy de imágenes de GitHub:
+       · santiagorg10-readme-stats.vercel.app → DEPLOYMENT_NOT_FOUND (instancia borrada)
+       · github-readme-stats.vercel.app       → 503 de forma crónica
+       · streak-stats.demolab.com             → 6-7s en caliente, 16s+ en frío, 503 frecuente;
+                                                camo agota el tiempo y la imagen sale rota
+     Solución: autoalojar ambos proyectos en Vercel con un PAT de solo lectura. Eso además
+     habilita count_private, clave aquí porque todos los repos importantes son privados —
+     sin eso las tarjetas reportarían casi nada. Luego restaurar las etiquetas <img>. -->
 
 ## 📈 &nbsp;Actividad de Contribución
 

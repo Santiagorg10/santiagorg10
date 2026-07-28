@@ -288,18 +288,15 @@ verified interference-clean in every position, now in field-test prep.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=santiagorg10&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=a9b1d6&sideNums=a9b1d6&dates=565f89&v=2" />
-</div>
-
-<!-- Commit/stars stats card and top-languages card intentionally omitted:
-     the self-hosted instance at santiagorg10-readme-stats.vercel.app is gone
-     (DEPLOYMENT_NOT_FOUND) and the public one is chronically 503. Both cards also
-     need a self-hosted instance + PAT to honour count_private — without it they
-     would report almost nothing, since every substantial repo here is private.
-     Redeploy the fork, then restore the two <img> tags. -->
+<!-- All three third-party stat cards (commits/stars, top languages, streak) are
+     intentionally omitted — they do not survive GitHub's image proxy:
+       · santiagorg10-readme-stats.vercel.app → DEPLOYMENT_NOT_FOUND (instance deleted)
+       · github-readme-stats.vercel.app       → chronically 503
+       · streak-stats.demolab.com             → 6-7s warm, 16s+ cold, frequent 503;
+                                                camo times out, so it renders broken
+     Fix: self-host both projects on Vercel with a read-only PAT. That also enables
+     count_private, which matters here because every substantial repo is private —
+     without it the cards would report almost nothing. Then restore the <img> tags. -->
 
 ## 📈 &nbsp;Contribution Activity
 
