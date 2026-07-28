@@ -184,6 +184,33 @@ A few pieces I'm happy with:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🖧 &nbsp;Infrastructure & Operations
+
+> **Two tiers, on purpose.** An on-prem server does the compute — ERP, CI and the AI stack — behind a Cloudflare Tunnel with **no public ports at all**. A small edge VPS abroad does the things a tunneled box fundamentally can't: hold a real public IP, *not* share fate with the office's power and fiber, and host the estate's single sanctioned public listener — the fleet's raw-TCP GPS ingress, rate-limited and connection-capped.
+
+| | |
+|---|---|
+| **On-prem** | Ubuntu 24.04 · OPNsense micro-segmentation · Docker Compose · Tailscale mesh · Cloudflare Tunnel + Access, GitHub SSO, webhook HMAC verification |
+| **Edge VPS** | Public-edge + off-site tier · key-only SSH · UFW · ops reachable only over the tailnet · **off-box uptime monitoring**, so the monitor doesn't die in the outage it's supposed to report |
+| **Disaster recovery** | Nightly **client-encrypted restic** to the off-site box over Tailscale · **RPO ≤ 24 h · RTO ~1–2 min** — measured in a real restore drill, not assumed. A backup you've never restored isn't a backup |
+| **Observability** | Prometheus · Grafana · Alertmanager · node-exporter · cAdvisor · Uptime-Kuma · push alerting · a fate-independent dead-man's heartbeat |
+| **Capacity** | A k6 harness that *measures* the real concurrent-user ceiling — connection-pool saturation, p95 latency, the point where 5xx starts |
+| **Telephony** | Self-hosted **Asterisk 20 LTS** with `chan_dongle` over Huawei USB GSM modems — AGI scripts report DTMF and inbound events back to FastAPI; Spanish prompts are synthesized at image build, so nothing calls a TTS API at runtime |
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux%20VPS-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+![OPNsense](https://img.shields.io/badge/OPNsense-1a1b27?style=flat-square&logo=opnsense&logoColor=ff9e64)
+![Tailscale](https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=bb9af7)
+![restic](https://img.shields.io/badge/restic%20%C2%B7%20off--site%20DR-1a1b27?style=flat-square&logoColor=9ece6a)
+![Prometheus](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
+![k6](https://img.shields.io/badge/k6%20Load%20Testing-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
+![Asterisk](https://img.shields.io/badge/Asterisk%20%C2%B7%20GSM-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
 
 **🐾 Side quest — Lucio & Co** · customizable pet products, designed around each pet.
@@ -252,6 +279,20 @@ verified interference-clean in every position, now in field-test prep.
 ![Woodpecker](https://img.shields.io/badge/Woodpecker%20CI-1a1b27?style=flat-square&logo=woodpeckerci&logoColor=9ece6a)
 ![OPNsense](https://img.shields.io/badge/OPNsense-1a1b27?style=flat-square&logo=opnsense&logoColor=ff9e64)
 ![Tailscale](https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=bb9af7)
+![Linux VPS](https://img.shields.io/badge/Linux%20VPS%20%C2%B7%20UFW-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+
+<br/>
+
+**📡 Observability, Reliability & Telephony**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="48" />
+
+![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
+![Grafana](https://img.shields.io/badge/Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=e0af68)
+![Alertmanager](https://img.shields.io/badge/Alertmanager%20%C2%B7%20Uptime--Kuma-1a1b27?style=flat-square&logoColor=9ece6a)
+![restic](https://img.shields.io/badge/restic%20%C2%B7%20Off--site%20DR-1a1b27?style=flat-square&logoColor=7dcfff)
+![k6](https://img.shields.io/badge/k6-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
+![Asterisk](https://img.shields.io/badge/Asterisk%2020%20%C2%B7%20AMI%2FARI%2FAGI-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
 
 <br/>
 

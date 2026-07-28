@@ -185,6 +185,33 @@ Algunas piezas con las que quedé contento:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🖧 &nbsp;Infraestructura y Operación
+
+> **Dos capas, a propósito.** Un servidor on-premise hace el cómputo — ERP, CI y la capa de IA — detrás de un Cloudflare Tunnel **sin ningún puerto público**. Un VPS de borde en el exterior hace lo que una máquina detrás del túnel no puede: tener una IP pública real, *no* compartir suerte con la energía y la fibra de la oficina, y alojar el único listener público autorizado de todo el estado — el ingreso GPS por TCP crudo de la flota, con límite de tasa y tope de conexiones.
+
+| | |
+|---|---|
+| **On-premise** | Ubuntu 24.04 · micro-segmentación con OPNsense · Docker Compose · malla Tailscale · Cloudflare Tunnel + Access, SSO de GitHub, verificación HMAC de webhooks |
+| **VPS de borde** | Capa de borde público + fuera de sitio · SSH solo por llave · UFW · operación accesible únicamente por la tailnet · **monitoreo de disponibilidad fuera de la caja**, para que el monitor no muera en la misma caída que debería reportar |
+| **Recuperación ante desastres** | **restic cifrado en cliente** cada noche hacia la caja fuera de sitio por Tailscale · **RPO ≤ 24 h · RTO ~1–2 min** — medidos en un simulacro real de restauración, no supuestos. Un backup que nunca has restaurado no es un backup |
+| **Observabilidad** | Prometheus · Grafana · Alertmanager · node-exporter · cAdvisor · Uptime-Kuma · alertas push · un latido dead-man independiente del sistema vigilado |
+| **Capacidad** | Un harness k6 que *mide* el techo real de usuarios concurrentes — saturación del pool de conexiones, latencia p95, el punto donde empiezan los 5xx |
+| **Telefonía** | **Asterisk 20 LTS** autoalojado con `chan_dongle` sobre módems GSM USB Huawei — scripts AGI reportan DTMF y eventos entrantes de vuelta a FastAPI; los prompts en español se sintetizan al construir la imagen, así que nada llama a una API de TTS en tiempo de ejecución |
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/VPS%20Linux-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+![OPNsense](https://img.shields.io/badge/OPNsense-1a1b27?style=flat-square&logo=opnsense&logoColor=ff9e64)
+![Tailscale](https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=bb9af7)
+![restic](https://img.shields.io/badge/restic%20%C2%B7%20DR%20fuera%20de%20sitio-1a1b27?style=flat-square&logoColor=9ece6a)
+![Prometheus](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
+![k6](https://img.shields.io/badge/Pruebas%20de%20Carga%20k6-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
+![Asterisk](https://img.shields.io/badge/Asterisk%20%C2%B7%20GSM-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <div align="center">
 
 **🐾 Side quest — Lucio & Co** · productos personalizables para mascotas, diseñados alrededor de cada una.
@@ -254,6 +281,20 @@ pruebas de campo.
 ![Woodpecker](https://img.shields.io/badge/Woodpecker%20CI-1a1b27?style=flat-square&logo=woodpeckerci&logoColor=9ece6a)
 ![OPNsense](https://img.shields.io/badge/OPNsense-1a1b27?style=flat-square&logo=opnsense&logoColor=ff9e64)
 ![Tailscale](https://img.shields.io/badge/Tailscale-1a1b27?style=flat-square&logo=tailscale&logoColor=bb9af7)
+![VPS Linux](https://img.shields.io/badge/VPS%20Linux%20%C2%B7%20UFW-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+
+<br/>
+
+**📡 Observabilidad, Confiabilidad y Telefonía**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="48" />
+
+![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
+![Grafana](https://img.shields.io/badge/Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=e0af68)
+![Alertmanager](https://img.shields.io/badge/Alertmanager%20%C2%B7%20Uptime--Kuma-1a1b27?style=flat-square&logoColor=9ece6a)
+![restic](https://img.shields.io/badge/restic%20%C2%B7%20DR%20fuera%20de%20sitio-1a1b27?style=flat-square&logoColor=7dcfff)
+![k6](https://img.shields.io/badge/k6-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
+![Asterisk](https://img.shields.io/badge/Asterisk%2020%20%C2%B7%20AMI%2FARI%2FAGI-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
 
 <br/>
 
