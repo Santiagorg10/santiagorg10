@@ -36,7 +36,7 @@ class SantiagoR:
     current     = "Plataforma VIA — production ERP, built solo from scratch"
     ecosystem   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Via-Mail", "Hermes"]
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-    studying    = "Aeronautical Engineering  ✈️"
+    studying    = "Aeronautical Engineering ✈️"
     languages   = ["English", "Spanish"]
     side_lab    = "CyberLab — RF & detection bench 🔬"
     side_quest  = "Lucio & Co — pet products in Fusion 360 🐾"
@@ -309,6 +309,7 @@ verified interference-clean in every position, now in field-test prep.
 ![Vite](https://img.shields.io/badge/Vite%207-1a1b27?style=flat-square&logo=vite&logoColor=bb9af7)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20Strict-1a1b27?style=flat-square&logo=typescript&logoColor=7aa2f7)
 ![Recharts](https://img.shields.io/badge/Recharts-1a1b27?style=flat-square&logo=react&logoColor=9ece6a)
+![MapLibre](https://img.shields.io/badge/MapLibre%20GL-1a1b27?style=flat-square&logo=maplibre&logoColor=7dcfff)
 
 <br/>
 
@@ -320,6 +321,19 @@ verified interference-clean in every position, now in field-test prep.
 ![Expo](https://img.shields.io/badge/Expo%20SDK%2056-1a1b27?style=flat-square&logo=expo&logoColor=ffffff)
 ![EAS](https://img.shields.io/badge/EAS%20Build-1a1b27?style=flat-square&logo=expo&logoColor=bb9af7)
 ![Play Store](https://img.shields.io/badge/Play%20Console%20%C2%B7%20TestFlight-1a1b27?style=flat-square&logo=googleplay&logoColor=9ece6a)
+
+<br/>
+
+**🧪 Testing & Quality**
+
+<img src="https://skillicons.dev/icons?i=vitest,jest&theme=dark" height="48" />
+
+![pytest](https://img.shields.io/badge/pytest-1a1b27?style=flat-square&logo=pytest&logoColor=7aa2f7)
+![Vitest](https://img.shields.io/badge/Vitest-1a1b27?style=flat-square&logo=vitest&logoColor=9ece6a)
+![Playwright](https://img.shields.io/badge/Playwright-1a1b27?style=flat-square&logoColor=7dcfff)
+![Jest](https://img.shields.io/badge/Jest-1a1b27?style=flat-square&logo=jest&logoColor=f7768e)
+![Ruff](https://img.shields.io/badge/Ruff-1a1b27?style=flat-square&logo=ruff&logoColor=e0af68)
+![ESLint](https://img.shields.io/badge/ESLint-1a1b27?style=flat-square&logo=eslint&logoColor=bb9af7)
 
 <br/>
 
@@ -340,11 +354,12 @@ verified interference-clean in every position, now in field-test prep.
 
 **📡 Observability, Reliability & Telephony**
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" height="48" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,sentry&theme=dark" height="48" />
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
 ![Grafana](https://img.shields.io/badge/Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=e0af68)
 ![Alertmanager](https://img.shields.io/badge/Alertmanager%20%C2%B7%20Uptime--Kuma-1a1b27?style=flat-square&logoColor=9ece6a)
+![Sentry](https://img.shields.io/badge/Sentry%20%C2%B7%20GlitchTip-1a1b27?style=flat-square&logo=sentry&logoColor=bb9af7)
 ![restic](https://img.shields.io/badge/restic%20%C2%B7%20Off--site%20DR-1a1b27?style=flat-square&logoColor=7dcfff)
 ![k6](https://img.shields.io/badge/k6-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
 ![Asterisk](https://img.shields.io/badge/Asterisk%2020%20%C2%B7%20AMI%2FARI%2FAGI-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
@@ -375,10 +390,12 @@ verified interference-clean in every position, now in field-test prep.
 
 **🔧 Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=vscode,bash&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
+<img src="https://skillicons.dev/icons?i=vscode,bash,powershell,latex&theme=dark" height="48" />&nbsp;<img src="https://raw.githubusercontent.com/Santiagorg10/santiagorg10/main/assets/betaflight.png" height="44" alt="Betaflight" />
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7)
 ![Betaflight](https://img.shields.io/badge/Betaflight-1a1b27?style=flat-square&logo=drone&logoColor=f7768e)
+![PowerShell](https://img.shields.io/badge/PowerShell-1a1b27?style=flat-square&logoColor=7dcfff)
+![LaTeX](https://img.shields.io/badge/LaTeX-1a1b27?style=flat-square&logo=latex&logoColor=9ece6a)
 
 </div>
 
