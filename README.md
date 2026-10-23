@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=680&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;336+tables+%C2%B7+1%2C327+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Fleet+telemetry+%C2%B7+self-hosted+CI%2FCD+%C2%B7+on-prem+AI;Parametric+CAD+in+Fusion+360+%F0%9F%90%BE;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=680&lines=Building+a+full+ERP+from+scratch+%F0%9F%8F%97%EF%B8%8F;336+tables+%C2%B7+1%2C327+endpoints+%C2%B7+zero+Alembic+migrations;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Fleet+telemetry+%C2%B7+self-hosted+CI%2FCD+%C2%B7+on-prem+AI;Parametric+CAD+in+Fusion+360+%F0%9F%90%BE;FPV+freestyle+pilot+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+PID+tuning;Aeronautical+Engineering+student+%E2%9C%88%EF%B8%8F;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </div>
 
 ---
@@ -34,8 +34,11 @@ class SantiagoR:
     company     = "VIA TERRESTRE S.A. — Envigado, Antioquia"
     role        = "Sole Engineer · Systems Architect"
     current     = "Plataforma VIA — production ERP, built solo from scratch"
-    ecosystem   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Hermes"]
+    ecosystem   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Via-Mail", "Hermes"]
     infra       = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+    studying    = "Aeronautical Engineering — Los Libertadores ✈️"
+    languages   = ["English", "Spanish"]
+    side_lab    = "CyberLab — RF & detection bench 🔬"
     side_quest  = "Lucio & Co — pet products in Fusion 360 🐾"
     hobbies     = ["FPV Drones 🚁", "Betaflight PID tuning", "Self-hosted everything"]
 
@@ -104,7 +107,7 @@ A few pieces I'm happy with:
 
 </div>
 
-> Teltonika FMC125 device edge, a detached Traccar engine, a forked operator console, a passenger PWA with background arrival push, and a thin FastAPI service for toll quoting, route rounds and road-following ETAs. A frozen, versioned telemetry contract is what the ERP consumes.
+> Teltonika FMC125 device edge, a detached Traccar engine, a forked operator console, a passenger PWA with background arrival push, and a thin FastAPI service for toll quoting, route rounds and road-following ETAs. A frozen, versioned telemetry contract is what the ERP consumes. Plus a small read-only tool that checks tracker config changes against an allowlist.
 
 <div align="center">
 
@@ -115,7 +118,7 @@ A few pieces I'm happy with:
 ![PWA](https://img.shields.io/badge/PWA%20%C2%B7%20Push-1a1b27?style=flat-square&logo=pwa&logoColor=bb9af7)
 ![Valhalla](https://img.shields.io/badge/Valhalla%20Routing-1a1b27?style=flat-square&logoColor=ff9e64)
 
-<sub>Hardware bench-validated · the app runs on a synthetic fleet while production ingress clears sign-off · 315 commits</sub>
+<sub>Hardware bench-validated · the app runs on a synthetic fleet while production ingress clears sign-off · 1,226 commits</sub>
 
 </div>
 
@@ -136,7 +139,7 @@ A few pieces I'm happy with:
 ![cosign](https://img.shields.io/badge/Syft%20SBOM%20%C2%B7%20cosign-1a1b27?style=flat-square&logoColor=7dcfff)
 ![Grafana](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=ff9e64)
 
-<sub>Operational · four repos onboarded · 193 commits</sub>
+<sub>Operational · four repos onboarded · 1,749 commits</sub>
 
 </div>
 
@@ -159,7 +162,25 @@ A few pieces I'm happy with:
 ![bge-m3](https://img.shields.io/badge/bge--m3%20embeddings-1a1b27?style=flat-square&logoColor=7dcfff)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM%20Gateway-1a1b27?style=flat-square&logoColor=ff9e64)
 
-<sub>Inference and retrieval running · wiring it into the platform's copilot · 78 commits</sub>
+<sub>Inference and retrieval running · wiring it into the platform's copilot · 285 commits</sub>
+
+</div>
+
+<div align="center">
+
+### 📬 Via-Mail — Company Mail
+
+</div>
+
+> Moving the company's mail and calendar off per-seat pricing, so everyone can have an account — drivers included, eventually. Self-hosted, and the live domain stays untouched until the cutover is proven.
+
+<div align="center">
+
+![Mail](https://img.shields.io/badge/Self--hosted%20Mail-1a1b27?style=flat-square&logoColor=7aa2f7)
+![DNS](https://img.shields.io/badge/SPF%20%C2%B7%20DKIM%20%C2%B7%20DMARC-1a1b27?style=flat-square&logoColor=9ece6a)
+![Linux](https://img.shields.io/badge/Linux%20VPS-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+
+<sub>Foundation phase · nothing live yet · 177 commits</sub>
 
 </div>
 
@@ -178,7 +199,7 @@ A few pieces I'm happy with:
 ![LightRAG](https://img.shields.io/badge/Graph--RAG%20%2B%20BM25-1a1b27?style=flat-square&logoColor=bb9af7)
 ![Ollama](https://img.shields.io/badge/Local%20Model%20Fleet-1a1b27?style=flat-square&logo=ollama&logoColor=ffffff)
 
-<sub>Running daily · 1,031 commits</sub>
+<sub>Running daily · 1,388 commits</sub>
 
 </div>
 
@@ -206,6 +227,40 @@ A few pieces I'm happy with:
 ![Prometheus](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
 ![k6](https://img.shields.io/badge/k6%20Load%20Testing-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
 ![Asterisk](https://img.shields.io/badge/Asterisk%20%C2%B7%20GSM-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ✈️ &nbsp;Aeronautical Engineering — the Night Shift
+
+> By day I build software for a transport company; in the evenings I study **Aeronautical Engineering**. It's a road that started abroad, and I'm finishing it at home.
+
+| This term | Why it clicks for me |
+|---|---|
+| **Aerodynamics II & Lab** | the airflow I'd only ever felt through FPV goggles, finally on paper |
+| **Space System Engineering** | requirements, interfaces, verification — the discipline I try to run the platform with |
+| **RPAS** · remotely piloted aircraft | FPV with the rules switched on: airspace, airworthiness, operations |
+
+<div align="center">
+
+![Aeronautical Engineering](https://img.shields.io/badge/Aeronautical%20Engineering-1a1b27?style=flat-square&logoColor=7aa2f7)
+![RPAS](https://img.shields.io/badge/RPAS%20%C2%B7%20UAS-1a1b27?style=flat-square&logoColor=ff9e64)
+
+<sub>Halfway through</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+**🔬 Side lab — CyberLab** · an RF and CAN-bus bench where I'm learning detection — GPS jamming and spoofing,
+vehicle-bus intrusions, satellite links. A check only counts once it has caught a known-bad case.
+
+![Detection as Code](https://img.shields.io/badge/Detection%20as%20Code-1a1b27?style=flat-square&logoColor=f7768e)
+![SDR](https://img.shields.io/badge/SDR%20%C2%B7%20RF-1a1b27?style=flat-square&logoColor=7aa2f7)
+![CAN](https://img.shields.io/badge/CAN--bus-1a1b27?style=flat-square&logoColor=9ece6a)
 
 </div>
 
