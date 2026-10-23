@@ -82,8 +82,6 @@ inputs, not afterthoughts, so correctness and auditability matter more than movi
   </tr>
 </table>
 
-<sub>Measured from the repository on 2026-07-27 — not estimated.</sub>
-
 </div>
 
 **Domains:** Human Capital · Fleet & Maintenance · Operations & Dispatch · SG-SST (Res. 0312) · Environmental / ISO 14001 · Compliance & SAGRILAFT · Documental · Procurement · Finance & Accounting · LMS · CRM · Alerts
