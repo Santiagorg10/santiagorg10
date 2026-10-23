@@ -19,7 +19,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=680&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;336+tablas+%C2%B7+1.327+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Telemetr%C3%ADa+de+flota+%C2%B7+CI%2FCD+propio+%C2%B7+IA+on-premise;CAD+param%C3%A9trico+en+Fusion+360+%F0%9F%90%BE;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+ajuste+de+PID;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=1000&color=7aa2f7&center=true&vCenter=true&width=680&lines=Construyendo+un+ERP+completo+desde+cero+%F0%9F%8F%97%EF%B8%8F;336+tablas+%C2%B7+1.327+endpoints+%C2%B7+cero+migraciones+Alembic;Python+%7C+FastAPI+%7C+React+%7C+React+Native+%7C+Docker;Telemetr%C3%ADa+de+flota+%C2%B7+CI%2FCD+propio+%C2%B7+IA+on-premise;CAD+param%C3%A9trico+en+Fusion+360+%F0%9F%90%BE;Piloto+FPV+freestyle+%F0%9F%9A%81+%C2%B7+Betaflight+%C2%B7+ajuste+de+PID;Estudiante+de+Ingenier%C3%ADa+Aeron%C3%A1utica+%E2%9C%88%EF%B8%8F;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" />
 </div>
 
 ---
@@ -34,8 +34,11 @@ class SantiagoR:
     empresa      = "VIA TERRESTRE S.A. — Envigado, Antioquia"
     rol          = "Único Ingeniero · Arquitecto de Sistemas"
     actual       = "Plataforma VIA — ERP en producción, construido solo desde cero"
-    ecosistema   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Hermes"]
+    ecosistema   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Via-Mail", "Hermes"]
     infra        = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
+    estudio      = "Ingeniería Aeronáutica — Los Libertadores ✈️"
+    idiomas      = ["Inglés", "Español"]
+    side_lab     = "CyberLab — banco de RF y detección 🔬"
     side_quest   = "Lucio & Co — productos para mascotas en Fusion 360 🐾"
     hobbies      = ["Drones FPV 🚁", "Ajuste de PID en Betaflight", "Todo autoalojado"]
 
@@ -105,7 +108,7 @@ Algunas piezas con las que quedé contento:
 
 </div>
 
-> El borde de dispositivo Teltonika FMC125, un motor Traccar desacoplado, una consola de operador bifurcada, una PWA para pasajeros con push de llegada en segundo plano, y un servicio FastAPI delgado para cotización de peajes, rondas de ruta y ETAs que siguen la vía. Un contrato de telemetría congelado y versionado es lo que consume el ERP.
+> El borde de dispositivo Teltonika FMC125, un motor Traccar desacoplado, una consola de operador bifurcada, una PWA para pasajeros con push de llegada en segundo plano, y un servicio FastAPI delgado para cotización de peajes, rondas de ruta y ETAs que siguen la vía. Un contrato de telemetría congelado y versionado es lo que consume el ERP. Además, una pequeña herramienta de solo lectura que revisa los cambios de configuración de los rastreadores contra una lista blanca.
 
 <div align="center">
 
@@ -116,7 +119,7 @@ Algunas piezas con las que quedé contento:
 ![PWA](https://img.shields.io/badge/PWA%20%C2%B7%20Push-1a1b27?style=flat-square&logo=pwa&logoColor=bb9af7)
 ![Valhalla](https://img.shields.io/badge/Ruteo%20Valhalla-1a1b27?style=flat-square&logoColor=ff9e64)
 
-<sub>Hardware validado en banco · la app corre sobre una flota sintética mientras el ingreso a producción pasa su aprobación · 315 commits</sub>
+<sub>Hardware validado en banco · la app corre sobre una flota sintética mientras el ingreso a producción pasa su aprobación · 1.226 commits</sub>
 
 </div>
 
@@ -137,7 +140,7 @@ Algunas piezas con las que quedé contento:
 ![cosign](https://img.shields.io/badge/Syft%20SBOM%20%C2%B7%20cosign-1a1b27?style=flat-square&logoColor=7dcfff)
 ![Grafana](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=grafana&logoColor=ff9e64)
 
-<sub>Operativa · cuatro repos integrados · 193 commits</sub>
+<sub>Operativa · cuatro repos integrados · 1.749 commits</sub>
 
 </div>
 
@@ -160,7 +163,25 @@ Algunas piezas con las que quedé contento:
 ![bge-m3](https://img.shields.io/badge/bge--m3%20embeddings-1a1b27?style=flat-square&logoColor=7dcfff)
 ![LiteLLM](https://img.shields.io/badge/Gateway%20LiteLLM-1a1b27?style=flat-square&logoColor=ff9e64)
 
-<sub>Inferencia y recuperación funcionando · conectándola al copiloto de la plataforma · 78 commits</sub>
+<sub>Inferencia y recuperación funcionando · conectándola al copiloto de la plataforma · 285 commits</sub>
+
+</div>
+
+<div align="center">
+
+### 📬 Via-Mail — Correo Corporativo
+
+</div>
+
+> Sacar el correo y el calendario de la empresa del precio por usuario, para que todos puedan tener cuenta — con el tiempo también los conductores. Autoalojado, y el dominio en vivo queda intacto hasta que el cambio esté probado.
+
+<div align="center">
+
+![Correo](https://img.shields.io/badge/Correo%20Autoalojado-1a1b27?style=flat-square&logoColor=7aa2f7)
+![DNS](https://img.shields.io/badge/SPF%20%C2%B7%20DKIM%20%C2%B7%20DMARC-1a1b27?style=flat-square&logoColor=9ece6a)
+![Linux](https://img.shields.io/badge/VPS%20Linux-1a1b27?style=flat-square&logo=linux&logoColor=e0af68)
+
+<sub>Fase de cimientos · nada en vivo todavía · 177 commits</sub>
 
 </div>
 
@@ -179,7 +200,7 @@ Algunas piezas con las que quedé contento:
 ![LightRAG](https://img.shields.io/badge/Graph--RAG%20%2B%20BM25-1a1b27?style=flat-square&logoColor=bb9af7)
 ![Ollama](https://img.shields.io/badge/Flota%20de%20Modelos%20Locales-1a1b27?style=flat-square&logo=ollama&logoColor=ffffff)
 
-<sub>En uso diario · 1.031 commits</sub>
+<sub>En uso diario · 1.388 commits</sub>
 
 </div>
 
@@ -207,6 +228,41 @@ Algunas piezas con las que quedé contento:
 ![Prometheus](https://img.shields.io/badge/Prometheus%20%C2%B7%20Grafana-1a1b27?style=flat-square&logo=prometheus&logoColor=ff9e64)
 ![k6](https://img.shields.io/badge/Pruebas%20de%20Carga%20k6-1a1b27?style=flat-square&logo=k6&logoColor=f7768e)
 ![Asterisk](https://img.shields.io/badge/Asterisk%20%C2%B7%20GSM-1a1b27?style=flat-square&logo=asterisk&logoColor=7aa2f7)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ✈️ &nbsp;Ingeniería Aeronáutica — el Turno de la Noche
+
+> De día construyo software para una empresa de transporte; en las noches estudio **Ingeniería Aeronáutica**. Es un camino que empezó afuera y que estoy terminando en casa.
+
+| Este semestre | Por qué me engancha |
+|---|---|
+| **Aerodinámica II y Laboratorio** | el flujo de aire que solo había sentido a través de las gafas FPV, por fin en papel |
+| **Space System Engineering** | requisitos, interfaces, verificación — la disciplina con la que intento llevar la plataforma |
+| **RPAS** · sistemas aéreos tripulados de forma remota | FPV con las reglas encendidas: espacio aéreo, aeronavegabilidad, operación |
+
+<div align="center">
+
+![Ingeniería Aeronáutica](https://img.shields.io/badge/Ingenier%C3%ADa%20Aeron%C3%A1utica-1a1b27?style=flat-square&logoColor=7aa2f7)
+![RPAS](https://img.shields.io/badge/RPAS%20%C2%B7%20UAS-1a1b27?style=flat-square&logoColor=ff9e64)
+
+<sub>A mitad de camino</sub>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+**🔬 Side lab — CyberLab** · un banco de RF y bus CAN donde estoy aprendiendo detección — interferencia y
+suplantación GPS, intrusiones en el bus del vehículo, enlaces satelitales. Un chequeo solo cuenta cuando ya atrapó
+un caso malo conocido.
+
+![Detección como Código](https://img.shields.io/badge/Detecci%C3%B3n%20como%20C%C3%B3digo-1a1b27?style=flat-square&logoColor=f7768e)
+![SDR](https://img.shields.io/badge/SDR%20%C2%B7%20RF-1a1b27?style=flat-square&logoColor=7aa2f7)
+![CAN](https://img.shields.io/badge/Bus%20CAN-1a1b27?style=flat-square&logoColor=9ece6a)
 
 </div>
 
