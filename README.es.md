@@ -83,8 +83,6 @@ la auditabilidad importan más que ir rápido.
   </tr>
 </table>
 
-<sub>Medido sobre el repositorio el 2026-07-27 — no estimado.</sub>
-
 </div>
 
 **Dominios:** Talento Humano · Flotas y Mantenimiento · Operaciones y Despacho · SG-SST (Res. 0312) · Gestión Ambiental / ISO 14001 · Cumplimiento y SAGRILAFT · Documental · Compras · Finanzas y Contabilidad · Capacitaciones · CRM · Alertas
