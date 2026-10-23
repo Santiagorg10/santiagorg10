@@ -36,7 +36,7 @@ class SantiagoR:
     actual       = "Plataforma VIA — ERP en producción, construido solo desde cero"
     ecosistema   = ["Plataforma VIA", "Gps-Via", "Via-Stack", "AI-Stack", "Via-Mail", "Hermes"]
     infra        = ["Ubuntu 24.04", "OPNsense", "Docker", "Tailscale", "Cloudflare"]
-    estudio      = "Ingeniería Aeronáutica — Los Libertadores ✈️"
+    estudio      = "Ingeniería Aeronáutica  ✈️"
     idiomas      = ["Inglés", "Español"]
     side_lab     = "CyberLab — banco de RF y detección 🔬"
     side_quest   = "Lucio & Co — productos para mascotas en Fusion 360 🐾"
