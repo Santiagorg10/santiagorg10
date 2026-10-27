@@ -232,9 +232,6 @@ A few pieces I'm happy with:
 
 <div align="center">
 
-![Aeronautical Engineering](https://img.shields.io/badge/Aeronautical%20Engineering-1a1b27?style=flat-square&logoColor=7aa2f7)
-![RPAS](https://img.shields.io/badge/RPAS%20%C2%B7%20UAS-1a1b27?style=flat-square&logoColor=ff9e64)
-
 <sub>Halfway through</sub>
 
 </div>
