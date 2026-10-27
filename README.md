@@ -230,16 +230,6 @@ A few pieces I'm happy with:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✈️ &nbsp;Aeronautical Engineering — the Night Shift
-
-> By day I build software for a transport company; in the evenings I study **Aeronautical Engineering**. It's a road that started abroad, and I'm finishing it at home.
-
-| This term | Why it clicks for me |
-|---|---|
-| **Aerodynamics II & Lab** | the airflow I'd only ever felt through FPV goggles, finally on paper |
-| **Space System Engineering** | requirements, interfaces, verification — the discipline I try to run the platform with |
-| **RPAS** · remotely piloted aircraft | FPV with the rules switched on: airspace, airworthiness, operations |
-
 <div align="center">
 
 ![Aeronautical Engineering](https://img.shields.io/badge/Aeronautical%20Engineering-1a1b27?style=flat-square&logoColor=7aa2f7)
