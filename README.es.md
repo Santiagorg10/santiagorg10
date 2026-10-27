@@ -231,15 +231,6 @@ Algunas piezas con las que quedé contento:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ✈️ &nbsp;Ingeniería Aeronáutica — el Turno de la Noche
-
-> De día construyo software para una empresa de transporte; en las noches estudio **Ingeniería Aeronáutica**. Es un camino que empezó afuera y que estoy terminando en casa.
-
-| Este semestre | Por qué me engancha |
-|---|---|
-| **Aerodinámica II y Laboratorio** | el flujo de aire que solo había sentido a través de las gafas FPV, por fin en papel |
-| **Space System Engineering** | requisitos, interfaces, verificación — la disciplina con la que intento llevar la plataforma |
-| **RPAS** · sistemas aéreos tripulados de forma remota | FPV con las reglas encendidas: espacio aéreo, aeronavegabilidad, operación |
 
 <div align="center">
 
