@@ -229,15 +229,8 @@ Algunas piezas con las que quedé contento:
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 
 <div align="center">
-
-![Ingeniería Aeronáutica](https://img.shields.io/badge/Ingenier%C3%ADa%20Aeron%C3%A1utica-1a1b27?style=flat-square&logoColor=7aa2f7)
-![RPAS](https://img.shields.io/badge/RPAS%20%C2%B7%20UAS-1a1b27?style=flat-square&logoColor=ff9e64)
-
-<sub>A mitad de camino</sub>
 
 </div>
 
